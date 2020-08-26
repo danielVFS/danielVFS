@@ -5,11 +5,10 @@ Tenho 19 anos e atualmente sou estudante de Ciência da computação no IFG - In
 Sou Desenvolvedor Full Stack, tenho experiência em NodeJS, ReactJS, entre outras linguagens e frameworks.
 
 ## Tecnologias
-- Front End: HTML, CSS, JS, ReactJS, Bootstrap, MaterializeCSS
-- Back End com NodeJS, Express,Socket.io
+- Front End: HTML, CSS, JS, ReactJS,Redux, Bootstrap, MaterializeCSS
+- Back End com NodeJS, Express,Socket.io, Docker
 - Database: PostgreSQL, MySQL, Firebase, SQLite, Redis
 - Mobile: React Native
-- UI Design utilizando Sketch/Figma
 
 ### Linguagens e ferramentas:
 
@@ -18,6 +17,7 @@ Sou Desenvolvedor Full Stack, tenho experiência em NodeJS, ReactJS, entre outra
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Redux" width="26px" src="(https://user-images.githubusercontent.com/54604875/91354700-7f622980-e7c3-11ea-91d1-abfa7d67652d.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
