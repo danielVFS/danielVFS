@@ -1,6 +1,6 @@
  # <a href="https://www.linkedin.com/in/daniel-vitor-7b0b731a5/">Daniel Vitor</a>
  
-Tenho 19 anos e atualmente sou estudante de Ciência da computação no IFG - Instituto Federal de Goiás(Anápolis, GO). 
+Tenho 20 nos e atualmente sou estudante de Ciência da computação no IFG - Instituto Federal de Goiás(Anápolis, GO). 
 <br>
 Sou Desenvolvedor Full Stack, tenho experiência em NodeJS, ReactJS, entre outras linguagens e frameworks.
 
