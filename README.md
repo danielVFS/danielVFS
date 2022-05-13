@@ -10,11 +10,13 @@ Front-end developer with with React.JS & Angular experience.
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://user-images.githubusercontent.com/54604875/116709527-23315400-a9a7-11eb-96e5-7e63e9dfee8b.png" />
+<img align="left" alt="Typescript" width="35px" src="https://user-images.githubusercontent.com/54604875/116709527-23315400-a9a7-11eb-96e5-7e63e9dfee8b.png" />
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next.JS" width="26px" src="https://user-images.githubusercontent.com/54604875/168186766-82cd95e9-992e-421b-a800-450fe3982059.png" />
+<img align="left" alt="Angular" width="35px" src="https://user-images.githubusercontent.com/54604875/168187490-fe818d37-a8ed-48e6-80e8-e598eead982e.png" />
+<img align="left" alt="Next.JS" width="35px" src="https://user-images.githubusercontent.com/54604875/168186766-82cd95e9-992e-421b-a800-450fe3982059.png" />
 <img align="left" alt="Redux" width="35px" src="https://user-images.githubusercontent.com/54604875/91354700-7f622980-e7c3-11ea-91d1-abfa7d67652d.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="35px" src="https://user-images.githubusercontent.com/54604875/168187425-90701856-cc00-4811-8a93-d117e6837736.png"/>
+<img align="left" alt="Java" width="35px" src="https://user-images.githubusercontent.com/54604875/168187620-9228303c-6eac-4d3e-ba68-1fceae13dc94.png" />
 <img align="left" alt="Spring boot" width="35px" src="https://user-images.githubusercontent.com/54604875/168186979-b9b20c8a-087c-4e5e-8982-418c121fe297.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
